@@ -1,7 +1,7 @@
 # 💫 Hii there, I'm Nikhil Bhamare
 
 ## About Me
-🚀 Currently diving deep into the MERN stack ecosystem.<br>🍉 Excited to build and share innovative full-stack projects.<br>🎯 This year’s mission: Become a MERN stack wizard.<br>⚡ Fun fact: Nighttime is my prime time for coding creativity.<br>🗨️ Let's chat about: Favorite books, movies, tech.<br>🌍 Dreaming of building software that makes a positive impact globally.
+🚀 Currently diving deep into the MERN stack ecosystem.<br>🍉 Excited to build and share innovative full-stack projects.<br>🎯 This year’s mission: Become a MERN stack wizard.<br>⚡ Fun fact: I develop webs like Spider-Man!.<br>🗨️ Let's chat about: Favorite books, movies, tech.<br>🌍 Dreaming of building software that makes a positive impact globally.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itznick&icon=0&color=8)](https://visitcount.itsvg.in)
